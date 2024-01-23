@@ -42,10 +42,10 @@
     },
     
     {
-    "catName":  "Accessories kit", 
+    "catName":  "Accessories_kit", 
     "catNameAr":  "طقم اكسسوارات", 
     "catNum":  7, 
-    "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/accessories kit.jpg"
+    "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/accessories_kit.jpg"
     },
     
     {
@@ -55,7 +55,7 @@
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/offers.jpg"
     },
     {
-    "catName":  "All products", 
+    "catName":  "All_products", 
     "catNameAr":  "كل المنتجات", 
     "catNum":  11, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/allCategory.jpg"
