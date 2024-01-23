@@ -1,62 +1,62 @@
 [
     {
-    "catName":  'Chain', 
-    "catNameAr":  'سلسلة', 
+    "catName":  "Chain", 
+    "catNameAr":  "سلسلة", 
     "catNum":  1, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/chain.jpg"
     },
     
     {
-    "catName":  'Bracelet', 
-    "catNameAr":  'اسوره', 
+    "catName":  "Bracelet", 
+    "catNameAr":  "اسوره", 
     "catNum":  2, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/bracelet.jpg"
     },
     
     {
-    "catName":  'Anklet', 
-    "catNameAr":  'خلخال', 
+    "catName":  "Anklet", 
+    "catNameAr":  "خلخال", 
     "catNum":  3, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/anklet.jpg"
     },
     
     {
-    "catName":  'Ring', 
-    "catNameAr":  'خاتم', 
+    "catName":  "Ring", 
+    "catNameAr":  "خاتم", 
     "catNum":  4, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/ring.jpg"
     },
     
     {
-    "catName":  'Necklace', 
-    "catNameAr":  'عقد', 
+    "catName":  "Necklace", 
+    "catNameAr":  "عقد", 
     "catNum":  5, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/necklace.jpg"
     },
     
     {
-    "catName":  'Earring', 
-    "catNameAr":  'حلق', 
+    "catName":  "Earring", 
+    "catNameAr":  "حلق", 
     "catNum":  6, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/earring.jpg"
     },
     
     {
-    "catName":  'Accessories kit', 
-    "catNameAr":  'طقم اكسسوارات', 
+    "catName":  "Accessories kit", 
+    "catNameAr":  "طقم اكسسوارات", 
     "catNum":  7, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/accessories kit.jpg"
     },
     
     {
-    "catName":  'Offers', 
+    "catName":  "Offers", 
     "catNameAr":  "عروض", 
     "catNum":  10, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/offers.jpg"
     },
     {
-    "catName":  'All products', 
-    "catNameAr":  'كل المنتجات', 
+    "catName":  "All products", 
+    "catNameAr":  "كل المنتجات", 
     "catNum":  11, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/allCategory.jpg"
     }
