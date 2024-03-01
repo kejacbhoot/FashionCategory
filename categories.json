@@ -1,9 +1,9 @@
 [
     {
-    "catName":  "Chain", 
+    "catName":  "Necklace", 
     "catNameAr":  "سلسلة", 
     "catNum":  1, 
-    "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/chain.jpg"
+    "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/necklace.jpg"
     },
     
     {
@@ -28,23 +28,16 @@
     },
     
     {
-    "catName":  "Necklace", 
-    "catNameAr":  "عقد", 
-    "catNum":  5, 
-    "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/necklace.jpg"
-    },
-    
-    {
     "catName":  "Earring", 
     "catNameAr":  "حلق", 
-    "catNum":  6, 
+    "catNum":  5, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/earrings.jpg"
     },
     
     {
     "catName":  "Accessories kit", 
     "catNameAr":  "طقم اكسسوارات", 
-    "catNum":  7, 
+    "catNum":  6, 
     "catUrl":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/accessories_kit.jpg"
     },
     
